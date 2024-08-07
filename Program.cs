@@ -7,7 +7,6 @@ namespace CAULENHDIEUKIEN
         {
             float a;
             float b;
-            float c;
             float x;
 
             Console.WriteLine("Giai phuong trinh co dang ax + b = 0");
